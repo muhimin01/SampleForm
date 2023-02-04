@@ -1,5 +1,5 @@
-# Direct Lending Software Engineering Intern Assessment
-### by Abdul Muhaimin Ramlan @muhimin01
+# Sample Form using JavaScript and PHP
+### by @muhimin01
 
 The web app contains the files:
 * [js/](.\Code\js)
